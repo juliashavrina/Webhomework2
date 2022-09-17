@@ -1,0 +1,39 @@
+body{
+    background-color: darksalmon;
+}
+p {
+    color:crimson;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 12cm;
+}
+h1 {
+    color: firebrick;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 18cm;
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: chocolate;
+    padding-left: 18cm;
+}
+h3 {
+    color: chocolate;
+    padding-left: 12cm;
+}
+ul {
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+   padding-left: 12cm;
+}
+img {
+    padding-left: 12cm;
+}
+a {
+    padding-left: 12cm;
+}
+ol{
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+   padding-left: 12cm;
+ 
+}
